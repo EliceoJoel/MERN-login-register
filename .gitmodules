@@ -1,3 +1,6 @@
 [submodule "MERN-login-register-client-folder-"]
 	path = MERN-login-register-client-folder-
 	url = https://github.com/EliceoJoel/MERN-login-register-client-folder-.git
+[submodule "client-folder"]
+	path = client-folder
+	url = https://github.com/EliceoJoel/client-folder.git
